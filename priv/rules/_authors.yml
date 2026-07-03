@@ -2641,3 +2641,236 @@
   filters: *154
   metadata: *155
   generator: *156
+- neko_id: takayuki_hirao
+  level: 1
+  algo: count
+  threshold: 40%
+  filters:
+    anime_ids:
+    - 126
+    - 1858
+    - 3219
+    - 4282
+    - 5205
+    - 10417
+    - 15813
+    - 27631
+    - 41361
+    - 51605
+  metadata:
+    title_ru: Такаюки Хирао
+    title_en: Takayuki Hirao
+    image: "https://shikimori.rip/uploads/useruploads/1376315/f279c7488e68eaf614aa1c13cbd68897.jpg"
+    topic_id: 276032
+  generator:
+    person_id: 7247
+- neko_id: shingo_natsume
+  level: 1
+  algo: count
+  threshold: 33%
+  filters:
+    anime_ids:
+    - 20057
+    - 23327
+    - 30276
+    - 31704
+    - 33337
+    - 39610
+    - 37451
+    - 48849
+    - 49590
+  metadata:
+    title_ru: Синго Нацумэ
+    title_en: Shingo Natsume
+    image: "https://shikimori.rip/uploads/useruploads/1376315/a62e41f110745ff9bcd9c33675a26281.jpg"
+    topic_id: 276032
+  generator:
+    person_id: 28579
+- neko_id: kazuya_tsurumaki
+  level: 1
+  algo: count
+  threshold: 35%
+  filters:
+    anime_ids:
+    - 30
+    - 32
+    - 227
+    - 1002
+    - 2759
+    - 3784
+    - 3785
+    - 3786
+    - 5462
+    - 28149
+    - 32311
+    - 34549
+    - 53246
+    - 60449
+  metadata:
+    title_ru: Кадзуя Цурумаки
+    title_en: Kazuya Tsurumaki
+    image: "https://shikimori.rip/uploads/useruploads/1376315/2598fb675ccc879adfdc7e7a6536c91d.jpg"
+    topic_id: 276032
+  generator:
+    person_id: 6076
+- neko_id: shukou_murase
+  level: 1
+  algo: count
+  threshold: 31%
+  filters:
+    anime_ids:
+    - 7
+    - 88
+    - 90
+    - 285
+    - 782
+    - 790
+    - 1265
+    - 1362
+    - 1952
+    - 2387
+    - 3288
+    - 6867
+    - 23279
+    - 25183
+    - 36308
+    - 37765
+  metadata:
+    title_ru: Сюко Мурасэ
+    title_en: Shukou Murase
+    image: "https://shikimori.rip/uploads/useruploads/1376315/d88b99685b124b394d9fbfe71dc2d4ba.png"
+    topic_id: 276032
+  generator:
+    person_id: 5793
+- neko_id: sunao_katabuchi
+  level: 1
+  algo: count
+  threshold: 38%
+  filters:
+    anime_ids:
+    - 889
+    - 1028
+    - 1519
+    - 3425
+    - 3991
+    - 4901
+    - 5084
+    - 8440
+    - 15227
+    - 17897
+    - 31252
+    - 35593
+    - 38497
+    - 63411
+  metadata:
+    title_ru: Сунао Катабути
+    title_en: Sunao Katabuchi
+    image: "https://shikimori.rip/uploads/useruploads/1376315/a10e744d70d14885afc9dd64b04a0f48.jpg"
+    topic_id: 276032
+  generator:
+    person_id: 8947
+- neko_id: kazuto_nakazawa
+  level: 1
+  algo: count
+  threshold: 26%
+  filters:
+    anime_ids:
+    - 115
+    - 117
+    - 205
+    - 538
+    - 1025
+    - 1072
+    - 1350
+    - 1671
+    - 2398
+    - 2832
+    - 4983
+    - 5016
+    - 5168
+    - 5386
+    - 6533
+    - 7588
+    - 12935
+    - 13251
+    - 15933
+    - 23283
+    - 28149
+    - 32827
+    - 37370
+    - 37994
+    - 42544
+    - 63019
+  metadata:
+    title_ru: Кадзуто Накадзава
+    title_en: Kazuto Nakazawa
+    image: "https://shikimori.rip/uploads/useruploads/1376315/4f2d7a85ef7d5fc13c039928fd4693a1.jpg"
+    topic_id: 276032
+  generator:
+    person_id: 6474
+- neko_id: akio_watanabe
+  level: 1
+  algo: count
+  threshold: 29%
+  filters:
+    anime_ids:
+    - 349
+    - 610
+    - 615
+    - 920
+    - 921
+    - 1048
+    - 1075
+    - 1150
+    - 1220
+    - 1512
+    - 1618
+    - 3526
+    - 4822
+    - 5081
+    - 5304
+    - 8525
+    - 9260
+    - 9675
+    - 10080
+    - 10805
+    - 11597
+    - 15117
+    - 15689
+    - 16706
+    - 17074
+    - 17725
+    - 17729
+    - 21855
+    - 22119
+    - 28025
+    - 29093
+    - 29101
+    - 31181
+    - 31757
+    - 31758
+    - 32268
+    - 33263
+    - 34498
+    - 35247
+    - 35868
+    - 36725
+    - 36999
+    - 37346
+    - 38783
+    - 41006
+    - 42392
+    - 48488
+    - 48644
+    - 51068
+    - 51119
+    - 53014
+    - 57864
+    - 59825
+  metadata:
+    title_ru: Акио Ватанабэ
+    title_en: Akio Watanabe
+    image: "https://shikimori.rip/uploads/useruploads/1376315/0a4fa2a449fd7f37aa005ee2d757eb59.png"
+    topic_id: 276032
+  generator:
+    person_id: 5724
