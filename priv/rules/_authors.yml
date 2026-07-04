@@ -2645,7 +2645,7 @@
   level: 1
   algo: count
   threshold: 40%
-  filters:
+  filters: &157
     anime_ids:
     - 126
     - 1858
@@ -2657,18 +2657,25 @@
     - 27631
     - 41361
     - 51605
-  metadata:
+  metadata: &158
     title_ru: Такаюки Хирао
     title_en: Takayuki Hirao
-    image: "https://shikimori.rip/uploads/useruploads/1376315/f279c7488e68eaf614aa1c13cbd68897.jpg"
+    image: "/assets/achievements/anime/author/takayuki_hirao.jpg"
     topic_id: 276032
-  generator:
+  generator: &159
     person_id: 7247
+- neko_id: takayuki_hirao
+  level: 0
+  algo: count
+  threshold: 0.01
+  filters: *157
+  metadata: *158
+  generator: *159
 - neko_id: shingo_natsume
   level: 1
   algo: count
   threshold: 33%
-  filters:
+  filters: &160
     anime_ids:
     - 20057
     - 23327
@@ -2679,18 +2686,25 @@
     - 37451
     - 48849
     - 49590
-  metadata:
+  metadata: &161
     title_ru: Синго Нацумэ
     title_en: Shingo Natsume
-    image: "https://shikimori.rip/uploads/useruploads/1376315/a62e41f110745ff9bcd9c33675a26281.jpg"
+    image: "/assets/achievements/anime/author/shingo_natsume.jpg"
     topic_id: 276032
-  generator:
+  generator: &162
     person_id: 28579
+- neko_id: shingo_natsume
+  level: 0
+  algo: count
+  threshold: 0.01
+  filters: *160
+  metadata: *161
+  generator: *162
 - neko_id: kazuya_tsurumaki
   level: 1
   algo: count
   threshold: 35%
-  filters:
+  filters: &163
     anime_ids:
     - 30
     - 32
@@ -2706,18 +2720,25 @@
     - 34549
     - 53246
     - 60449
-  metadata:
+  metadata: &164
     title_ru: Кадзуя Цурумаки
     title_en: Kazuya Tsurumaki
-    image: "https://shikimori.rip/uploads/useruploads/1376315/2598fb675ccc879adfdc7e7a6536c91d.jpg"
+    image: "/assets/achievements/anime/author/kazuya_tsurumaki.jpg"
     topic_id: 276032
-  generator:
+  generator: &165
     person_id: 6076
+- neko_id: kazuya_tsurumaki
+  level: 0
+  algo: count
+  threshold: 0.01
+  filters: *163
+  metadata: *164
+  generator: *165
 - neko_id: shukou_murase
   level: 1
   algo: count
   threshold: 31%
-  filters:
+  filters: &166
     anime_ids:
     - 7
     - 88
@@ -2735,18 +2756,25 @@
     - 25183
     - 36308
     - 37765
-  metadata:
+  metadata: &167
     title_ru: Сюко Мурасэ
     title_en: Shukou Murase
-    image: "https://shikimori.rip/uploads/useruploads/1376315/d88b99685b124b394d9fbfe71dc2d4ba.png"
+    image: "/assets/achievements/anime/author/shukou_murase.png"
     topic_id: 276032
-  generator:
+  generator: &168
     person_id: 5793
+- neko_id: shukou_murase
+  level: 0
+  algo: count
+  threshold: 0.01
+  filters: *166
+  metadata: *167
+  generator: *168
 - neko_id: sunao_katabuchi
   level: 1
   algo: count
   threshold: 38%
-  filters:
+  filters: &169
     anime_ids:
     - 889
     - 1028
@@ -2762,18 +2790,25 @@
     - 35593
     - 38497
     - 63411
-  metadata:
+  metadata: &170
     title_ru: Сунао Катабути
     title_en: Sunao Katabuchi
-    image: "https://shikimori.rip/uploads/useruploads/1376315/a10e744d70d14885afc9dd64b04a0f48.jpg"
+    image: "/assets/achievements/anime/author/sunao_katabuchi.jpg"
     topic_id: 276032
-  generator:
+  generator: &171
     person_id: 8947
+- neko_id: sunao_katabuchi
+  level: 0
+  algo: count
+  threshold: 0.01
+  filters: *169
+  metadata: *170
+  generator: *171
 - neko_id: kazuto_nakazawa
   level: 1
   algo: count
   threshold: 26%
-  filters:
+  filters: &172
     anime_ids:
     - 115
     - 117
@@ -2801,18 +2836,25 @@
     - 37994
     - 42544
     - 63019
-  metadata:
+  metadata: &173
     title_ru: Кадзуто Накадзава
     title_en: Kazuto Nakazawa
-    image: "https://shikimori.rip/uploads/useruploads/1376315/4f2d7a85ef7d5fc13c039928fd4693a1.jpg"
+    image: "/assets/achievements/anime/author/kazuto_nakazawa.jpg"
     topic_id: 276032
-  generator:
+  generator: &174
     person_id: 6474
+- neko_id: kazuto_nakazawa
+  level: 0
+  algo: count
+  threshold: 0.01
+  filters: *172
+  metadata: *173
+  generator: *174
 - neko_id: akio_watanabe
   level: 1
   algo: count
   threshold: 29%
-  filters:
+  filters: &175
     anime_ids:
     - 349
     - 610
@@ -2867,10 +2909,17 @@
     - 53014
     - 57864
     - 59825
-  metadata:
+  metadata: &176
     title_ru: Акио Ватанабэ
     title_en: Akio Watanabe
-    image: "https://shikimori.rip/uploads/useruploads/1376315/0a4fa2a449fd7f37aa005ee2d757eb59.png"
+    image: "/assets/achievements/anime/author/akio_watanabe.png"
     topic_id: 276032
-  generator:
+  generator: &177
     person_id: 5724
+- neko_id: akio_watanabe
+  level: 0
+  algo: count
+  threshold: 0.01
+  filters: *175
+  metadata: *176
+  generator: *177
