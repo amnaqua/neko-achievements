@@ -2662,6 +2662,7 @@
     title_ru: Такаюки Хирао
     title_en: Takayuki Hirao
     image: "/assets/achievements/anime/author/takayuki_hirao.jpg"
+    border_color: "#55B0EE"
     topic_id: 276032
   generator: &159
     person_id: 7247
@@ -2691,6 +2692,7 @@
     title_ru: Синго Нацумэ
     title_en: Shingo Natsume
     image: "/assets/achievements/anime/author/shingo_natsume.jpg"
+    border_color: "#5588EE"
     topic_id: 276032
   generator: &162
     person_id: 28579
@@ -2725,6 +2727,7 @@
     title_ru: Кадзуя Цурумаки
     title_en: Kazuya Tsurumaki
     image: "/assets/achievements/anime/author/kazuya_tsurumaki.jpg"
+    border_color: "#EE9A55"
     topic_id: 276032
   generator: &165
     person_id: 6076
@@ -2761,6 +2764,7 @@
     title_ru: Сюко Мурасэ
     title_en: Shukou Murase
     image: "/assets/achievements/anime/author/shukou_murase.png"
+    border_color: "#000000"
     topic_id: 276032
   generator: &168
     person_id: 5793
@@ -2795,6 +2799,7 @@
     title_ru: Сунао Катабути
     title_en: Sunao Katabuchi
     image: "/assets/achievements/anime/author/sunao_katabuchi.jpg"
+    border_color: "#B7E5ED"
     topic_id: 276032
   generator: &171
     person_id: 8947
@@ -2841,6 +2846,7 @@
     title_ru: Кадзуто Накадзава
     title_en: Kazuto Nakazawa
     image: "/assets/achievements/anime/author/kazuto_nakazawa.jpg"
+    border_color: "#000000"
     topic_id: 276032
   generator: &174
     person_id: 6474
@@ -2914,6 +2920,7 @@
     title_ru: Акио Ватанабэ
     title_en: Akio Watanabe
     image: "/assets/achievements/anime/author/akio_watanabe.png"
+    border_color: "#BA98ED0"
     topic_id: 276032
   generator: &177
     person_id: 5724
