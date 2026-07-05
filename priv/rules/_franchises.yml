@@ -2111,7 +2111,6 @@
   generator: &219
     ignore_latest_ids:
     - 37755
-    - 62067
 - neko_id: golden_kamuy
   level: 0
   algo: duration
