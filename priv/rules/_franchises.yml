@@ -4801,6 +4801,7 @@
     franchise: mobile_police_patlabor
     not_anime_ids:
     - 54399
+    - 59889
   threshold: 95%
   metadata: &474
     title_ru: Полиция будущего
@@ -7183,3 +7184,131 @@
   filters: *719
   threshold: 0.01
   metadata: *720
+- neko_id: mahoujin_guruguru
+  level: 1
+  algo: duration
+  filters:
+    franchise: mahoujin_guruguru
+    not_anime_ids:
+    - 35909
+  threshold: 100%
+  metadata:
+    title_ru: Волшебный круг Гуру-Гуру
+    title_en: Mahoujin Guruguru
+    image: "https://shikimori.rip/uploads/useruploads/1376315/6b3bb51bf986298e02cfe04d70a489dc.png"
+    topic_id: 247360
+- neko_id: joker
+  level: 1
+  algo: duration
+  filters:
+    franchise: joker
+  threshold: 100%
+  metadata:
+    title_ru: Загадочный Джокер
+    title_en: Kaitou Joker
+    image: "https://shikimori.rip/uploads/useruploads/1376315/98734bbb7c33763d3ee4a2321b985695.jpg"
+    topic_id: 247360
+- neko_id: shadowverse
+  level: 1
+  algo: duration
+  filters:
+    franchise: shadowverse
+    not_anime_ids:
+    - 36639
+    - 42486
+    - 53135
+    - 58705
+    - 59117
+  threshold: 100%
+  metadata:
+    title_ru: Поэзия теней
+    title_en: Shadowverse
+    image: "https://shikimori.rip/uploads/useruploads/1376315/5e5785109aad6b2920152ae90c54b629.png"
+    topic_id: 247360
+- neko_id: nurarihyon_no_mago
+  level: 1
+  algo: duration
+  filters:
+    franchise: nurarihyon_no_mago
+    not_anime_ids:
+    - 9731
+    - 11083
+  threshold: 100%
+  metadata:
+    title_ru: Внук Нурарихёна
+    title_en: Nurarihyon no Mago
+    image: "https://shikimori.rip/uploads/useruploads/1376315/3629f37ca72f1f7d1d9ae8994fc08731.jpg"
+    topic_id: 247360
+- neko_id: yoroiden_samurai_troopers
+  level: 1
+  algo: duration
+  filters:
+    franchise: yoroiden_samurai_troopers
+  threshold: 100%
+  metadata:
+    title_ru: Чудотворные рыцари
+    title_en: Yoroiden Samurai Troopers
+    image: "https://shikimori.rip/uploads/useruploads/1376315/3bf70e3cbd734f22d394c57312dae3a6.jpg"
+    topic_id: 247360
+- neko_id: kamisama_minarai
+  level: 1
+  algo: duration
+  filters:
+    franchise: kamisama_minarai
+    not_anime_ids:
+    - 40437
+  threshold: 100%
+  metadata:
+    title_ru: Кокотама
+    title_en: Cocotama
+    image: "https://shikimori.rip/uploads/useruploads/1376315/db598a919a3495d6f224abdbb9a41173.png"
+    topic_id: 247360
+- neko_id: tegamibachi
+  level: 1
+  algo: duration
+  filters:
+    franchise: tegamibachi
+    not_anime_ids:
+    - 9673
+  threshold: 100%
+  metadata:
+    title_ru: Почтовая пчела
+    title_en: Tegamibachi
+    image: "https://shikimori.rip/uploads/useruploads/1376315/331a5859a5f243eb15c3d9c364564882.jpg"
+    topic_id: 247360
+- neko_id: kaiketsu_zorori
+  level: 1
+  algo: duration
+  filters:
+    franchise: kaiketsu_zorori
+    not_anime_ids:
+    - 30313
+    - 35538
+    - 41027
+    - 53391
+    - 53989
+    - 53990
+  threshold: 100%
+  metadata:
+    title_ru: Удивительный Зорори
+    title_en: Kaiketsu Zorori
+    image: "https://shikimori.rip/uploads/useruploads/1376315/97c828c59a8be65d41f02ef247610760.png"
+    topic_id: 247360
+- neko_id: keroro
+  level: 1
+  algo: duration
+  filters:
+    franchise: keroro
+    not_anime_ids:
+    - 11299
+    - 50662
+    - 54355
+  threshold: 100%
+  metadata:
+    title_ru: Сержант Кэроро
+    title_en: Keroro Gunsou
+    image: "https://shikimori.rip/uploads/useruploads/1376315/a9a5d39b10d979ba5825ecc447b50878.png"
+    topic_id: 247360
+  generator:
+    ignore_latest_ids:
+    - 58773
