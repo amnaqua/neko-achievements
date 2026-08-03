@@ -4388,6 +4388,7 @@
     franchise: hokuto_no_ken
     not_anime_ids:
     - 2174
+    - 64616
   threshold: 90%
   metadata: &436
     title_ru: Кулак Северной звезды
